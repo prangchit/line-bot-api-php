@@ -1,2 +1,2 @@
 <?php
-echo "Prang IoT <=> LINEBOT API";
+echo "Prang Ja IoT <=> LINEBOT API";
